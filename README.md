@@ -16,7 +16,7 @@ yes
 
 6 https://drive.google.com/drive/folders/1etWIjzGTcqkBYkH4FH_ntCK4G3QglsFX
 
-## Headers
+## Headers list
 
 Cache-Control: max-age=0
 sec-ch-ua: "Android WebView";v="131", "Chromium";v="131", "Not_A Brand";v="24"
