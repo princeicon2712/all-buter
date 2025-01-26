@@ -16,6 +16,12 @@ yes
 
 6 https://drive.google.com/drive/folders/1etWIjzGTcqkBYkH4FH_ntCK4G3QglsFX
 
+
+
+
+
+## api:- https://startechcrl.com/server-copy/info.php
+
 ## Headers list
 
 Cache-Control: max-age=0
